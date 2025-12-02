@@ -16,15 +16,15 @@ High Transferability: Successfully attacks powerful, publicly-available LLMs via
 📚 Citation
 If you use TextJosher in your research, please cite our paper:
 
-@article{**WANG2026122888**,
-title = {TextJosher: A transfer-based black-box attack method Against text classifiers},
-journal = {Information Sciences},
-volume = {731},
-pages = {122888},
-year = {2026},
-issn = {0020-0255},
-doi = {https://doi.org/10.1016/j.ins.2025.122888},
-url = {https://www.sciencedirect.com/science/article/pii/S0020025525010242},
-author = {Peishuai Wang and Sicong Zhang and Yang Xu and Xinlong He and Weida Xu},
-keywords = {Natural language processing, Surrogate model, Adversarial attack, Textual adversarial examples, Semantic similarity}
+@article{wang2025textjosher,
+  title={TextJosher: A transfer-based black-box attack method Against text classifiers},
+  author={Wang, Peishuai and Zhang, Sicong and Xu, Yang and He, Xinlong and Xu, Weida},
+  journal={Information Sciences},
+  pages={122888},
+  year={2025},
+  publisher={Elsevier}
 }
+
+🔗 Links
+
+Paper: https://doi.org/10.1016/j.ins.2025.122888
